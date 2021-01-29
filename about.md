@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About
+title: JongHyeon Seong
 permalink: /about/
 main_nav: true
 ---
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hi, I'm a Computer Engineer. I'm University student which located in Korea, Seoul. I made this blog for myself because of my poor memory. If you are helped by my blog, That will be my honor.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My main part of skills are mostly based in 'JAVA'. So I want to write about contents 'Spring', 'Spring boot' and 'react' etc. I want to be a web developer. So if you have a same dream as me, let's study together!
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
