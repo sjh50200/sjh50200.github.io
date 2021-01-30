@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JongHyeon Seong
+title: About
 permalink: /about/
 main_nav: true
 ---
