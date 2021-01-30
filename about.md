@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.jpg "Profile Picture"){:.profile}
 
 Hi, I'm a Computer Engineer. I'm University student which located in Korea, Seoul. I made this blog for myself because of my poor memory. If you are helped by my blog, That will be my honor.
 
